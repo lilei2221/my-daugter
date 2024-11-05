@@ -1,5 +1,7 @@
 实验1为layout下面的shiyan1.xml
 
+（如果显示黑屏请点击虚拟机的返回按钮（Back））
+
 ![image](https://github.com/user-attachments/assets/83e05d03-63d7-4abb-aa9d-80f110dcc284)
 
 实验2为layout下面的shiyan2a，shiyan2b，shiyan2c，shiyan
