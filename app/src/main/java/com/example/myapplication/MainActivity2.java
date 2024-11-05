@@ -17,7 +17,7 @@ public class MainActivity2 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.shiyan3);
+        setContentView(R.layout.shiyan3a);
 
         // 数据源
         String[] animalNames = {"Lion", "Tiger", "Monkey", "Dog", "Cat", "Elephant"};
