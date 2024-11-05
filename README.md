@@ -14,11 +14,14 @@
 
 ![image](https://github.com/user-attachments/assets/77b57055-66a5-4082-b89b-0c7bb5a1b875)
 
-实验3为MainActivity2和layout下面的list_item,shiyan3a(实验3第一个）,MainActivity3和layout下面的dialog_login,shiyan3b(实验3第二个）
+实验3为MainActivity2和layout下面的list_item,shiyan3a(实验3第一个）,MainActivity3和layout下面的dialog_login,shiyan3b(实验3第二个），MainActivity4和layout下面的dialog_login,shiyan3c,menu下面的main_menu(实验3第三个）
 
 ![image](https://github.com/user-attachments/assets/54125623-9ea5-4f25-b992-80cc52195245)
 
 ![image](https://github.com/user-attachments/assets/05f8120c-d270-419b-8761-7eddaa6c916e)
+
+![image](https://github.com/user-attachments/assets/21af2e23-619b-4ca3-846f-c71248994259)
+
 
 
 
