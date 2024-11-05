@@ -14,6 +14,9 @@
 
 ![image](https://github.com/user-attachments/assets/77b57055-66a5-4082-b89b-0c7bb5a1b875)
 
+实验3为MainActivity2和layout下面的list_item,shiyan3a(实验3第一个）,
+
+![image](https://github.com/user-attachments/assets/54125623-9ea5-4f25-b992-80cc52195245)
 
 
 
